@@ -1,5 +1,5 @@
 {
-  "name": "cleave.js",
+  "name": "pandora-cleave.js",
   "title": "cleave.js",
   "description": "JavaScript library for formatting input text content when you are typing",
   "keywords": [
@@ -16,7 +16,7 @@
     "vanilla",
     "react"
   ],
-  "version": "1.6.0",
+  "version": "1.6.1",
   "files": [
     "src",
     "dist",
@@ -29,13 +29,13 @@
   },
   "license": "Apache-2.0",
   "bugs": "https://github.com/nosir/cleave.js/issues",
-  "homepage": "https://github.com/nosir/cleave.js",
-  "docs": "https://github.com/nosir/cleave.js/blob/master/README.md",
+  "homepage": "https://github.com/kingller/cleave.js",
+  "docs": "https://github.com/kingller/cleave.js/blob/master/README.md",
   "main": "dist/cleave.js",
   "module": "dist/cleave-esm.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nosir/cleave.js.git"
+    "url": "https://github.com/kingller/cleave.js.git"
   },
   "scripts": {
     "test": "gulp test",
